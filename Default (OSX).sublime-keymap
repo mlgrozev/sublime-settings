@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+j"], "command": "side_bar_rename" },
+	{ "keys": ["super+."], "command": "goto_definition" },
+	{ "keys": ["super+;"], "command": "goto_symbol_in_project" },
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false}}
+]
